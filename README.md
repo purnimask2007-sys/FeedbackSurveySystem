@@ -101,24 +101,6 @@ Question 3 → Option 4
 
 ---
 
-# Project Workflow
-
-The application follows the workflow shown below.
-
-> **Flowchart**
-
-```text
-README.md
-flowchart.jpg
-```
-
-Display in GitHub:
-
-```markdown
-## Project Flowchart
-
-![Project Flowchart](flowchart.jpg)
-```
 
 #  System Flowchart
 
