@@ -345,6 +345,7 @@ After completing this project, students will understand:
 ---
 
 # Author
+** L.Purnima **
 
 **Project Title:** Feedback / Survey Collection System
 
@@ -352,4 +353,3 @@ After completing this project, students will understand:
 
 **Concepts Used:** ArrayList, HashMap, OOP, Java Collections Framework
 
-**Project Type:** Low-Level Design (LLD) Mini Project
